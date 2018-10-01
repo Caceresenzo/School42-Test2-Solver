@@ -1,0 +1,6 @@
+#FUNCTION;id=1;size=3
+#FUNCTION;id=2;size=5
+#ACTIONS;WALK,ROTATION_LEFT,ROTATION_RIGHT
+
+{}{}{color=BLUE,type=STAR}
+{}{}{color=BLUE,PLAYER#RIGHT}{color=BLUE}{color=BLUE}{color=BLUE}{color=BLUE}{color=BLUE}{color=BLUE}{color=BLUE}{color=BLUE}{color=BLUE}{color=BLUE}{color=BLUE}{color=ORANGE,type=STAR}
